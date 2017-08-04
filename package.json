@@ -1,6 +1,6 @@
 {
     "name": "fis3-parser-gfe-smarty",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "解析smarty模板",
     "main": "index.js",
     "repository": {
