@@ -1,0 +1,24 @@
+{
+    "name": "fis3-parser-gfe-smarty",
+    "version": "1.0.0",
+    "description": "解析smarty模板",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/gomeFED/fis3-parser-gfe-smarty.git"
+    },
+    "keywords": [
+        "gfe",
+        "fis3",
+        "smarty"
+    ],
+    "author": "gomeFED",
+    "dependencies": {
+        "smarty4js": "^0.1.8"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/gomeFED/fis3-parser-gfe-smarty/issues"
+    },
+    "homepage": "https://github.com/gomeFED/fis3-parser-gfe-smarty#readme"
+}
